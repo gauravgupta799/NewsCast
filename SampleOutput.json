@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Afghanistan: Baby lost in Kabul evacuation is reunited with family",
+        "description": "The infant was lost after being handed to an American soldier at Kabul airport in August.",
+        "url": "http://www.bbc.co.uk/news/world-asia-59926854",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2F65/production/_122633121_mediaitem122632561.jpg",
+        "publishedAt": "2022-01-09T10:37:23.0375845Z",
+        "content": "Image caption, Hamid Safi, a 29-year-old taxi driver who had found baby Sohail Ahmadi in the airport, cries as he hands over Sohail to his grandfather\r\nA baby boy separated from his parents in the ch… [+2376 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Pakistan snow: Hundreds rescued from vehicles in deadly blizzard",
+        "description": "Tourists trapped by a blizzard for hours in freezing conditions are sheltering in the town of Murree.",
+        "url": "http://www.bbc.co.uk/news/world-asia-59927266",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/85B9/production/_122633243_gettyimages-1237601437.jpg",
+        "publishedAt": "2022-01-09T10:22:23.2787728Z",
+        "content": "Media caption, Watch: Around 1,000 cars stranded after travelling to see heavy snow in Murree\r\nHundreds of people who were trapped in vehicles in a deadly blizzard have been moved to safety as rescue… [+2603 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC Sport",
+        "title": "England cling on for draw in Sydney",
+        "description": "England cling on for a tense draw on the final day of the fourth Test in Sydney to end Australia's hopes of an Ashes clean sweep.",
+        "url": "http://www.bbc.co.uk/sport/cricket/59925558",
+        "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/C687/production/_122632805_hi073001960.jpg",
+        "publishedAt": "2022-01-09T08:37:31.3138555Z",
+        "content": "<table>\r\n<tr><td>Fourth Ashes Test, Sydney (day five of five)</td></tr><tr><td>Australia 416-8 dec &amp; 265-6 dec (Khawaja 101*, Green 74; Leach 4-84)</td></tr><tr><td>England 294 &amp; 270-9 (Crawl… [+5290 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Novak Djokovic: Australia loses bid to delay tennis star's visa appeal",
+        "description": "A judge overseeing the tennis star's deportation case rejects a request to postpone hearing for two days.",
+        "url": "http://www.bbc.co.uk/news/world-australia-59926777",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10BAB/production/_122632586_gettyimages-1299386333.jpg",
+        "publishedAt": "2022-01-09T08:37:22.3473358Z",
+        "content": "Image source, Getty Images\r\nImage caption, Novak Djokovic of Serbia, seen here last year in Melbourne, is preparing to appeal his deportation\r\nA bid by the Australian government to delay Novak Djokov… [+3070 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Nigeria attacks: Hundreds reported killed as bandits target villages",
+        "description": "The attacks in the northern Zamfara state are believed to be in response to military air strikes.",
+        "url": "http://www.bbc.co.uk/news/world-africa-59925413",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13513/production/_122632197_gettyimages-1233504234.jpg",
+        "publishedAt": "2022-01-09T05:52:22.5426436Z",
+        "content": "Image source, Getty Images\r\nImage caption, President Muhammadu Buhari said the attacks were \"act of desperation\" by the militants after military air strikes targeted their hideouts\r\nAt least 200 peop… [+2316 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Covid: Thousands protest in France against proposed new vaccine pass",
+        "description": "The protests are against a draft law which would in effect ban the unvaccinated from public areas.",
+        "url": "http://www.bbc.co.uk/news/world-europe-59925408",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9987/production/_122630393_gettyimages-1237607540.jpg",
+        "publishedAt": "2022-01-08T23:22:24.7885879Z",
+        "content": "Image source, Getty Images\r\nImage caption, About 18,000 people attended the protest in the capital Paris\r\nFrench authorities say more than 105,000 people have taken part in protests across the countr… [+2497 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Duchess of Cambridge: New photos mark Kate's 40th birthday",
+        "description": "Portraits taken at Kew Gardens will go on display at three locations across the UK.",
+        "url": "http://www.bbc.co.uk/news/uk-59922124",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4397/production/_122630371_hi072995594.jpg",
+        "publishedAt": "2022-01-08T22:52:21.0724117Z",
+        "content": "By Daniela RelphRoyal correspondent\r\nImage source, Paolo Roversi\r\nImage caption, The three portraits were taken at Kew Gardens in November\r\nThree new photographs of the Duchess of Cambridge have been… [+4559 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "At least five dead after Brazil cliff collapses on boats",
+        "description": "Another 20 are missing after the cliff fell onto boats in a lake in the south-east of the country.",
+        "url": "http://www.bbc.co.uk/news/world-latin-america-59923900",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1B50/production/_122629960_3d39bae3-59bd-43c8-b114-3ceb0cc0e93f.jpg",
+        "publishedAt": "2022-01-08T22:07:25.7342637Z",
+        "content": "Image source, Getty Images\r\nImage caption, Lake of Furnas, near Capitólio, is popular attraction (stock image)\r\nAt least five people have been killed after part of a cliff collapsed onto leisure boat… [+804 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Basmah bint Saud: Saudi princess released from jail after almost three years",
+        "description": "Princess Basma bint Saud and her daughter were held without charge for almost three years.",
+        "url": "http://www.bbc.co.uk/news/world-middle-east-59923898",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16AA0/production/_111823829_gettyimages-506536954.jpg",
+        "publishedAt": "2022-01-08T21:07:22.4485443Z",
+        "content": "Image source, Getty Images\r\nImage caption, Princess Basma - seen here in 2016 - has been a prominent advocate for constitutional reform\r\nA Saudi princess and her daughter have been released from a hi… [+1468 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "James Webb telescope completes epic deployment sequence",
+        "description": "With the unpacking of its big mirror, the $10bn telescope is on track to begin its historic mission.",
+        "url": "http://www.bbc.co.uk/news/science-environment-59914936",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0C28/production/_122621130_artist_s_impression_of_the_james_webb_space_telescope.jpg",
+        "publishedAt": "2022-01-08T19:37:20.7433635Z",
+        "content": "Jonathan AmosScience correspondent@BBCAmoson Twitter\r\nImage caption, Artwork: Webb is now in the designed configuration to view the cosmos\r\nIt's done. The biggest astronomical mirror ever sent into s… [+5834 chars]"
+      }
+    ]
+  }
