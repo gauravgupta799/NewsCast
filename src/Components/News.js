@@ -30,35 +30,39 @@ export default class News extends Component{
     }
 
     async updateArticle(){
-      const  url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=b0219494c3d64cb4a01502789eb74f5e&page=${this.state.page}&pageSize=${this.props.pageSize}`;
+      this.props.setProgress(10);
+      const  url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&
+      category=${this.props.category}&apiKey=b0219494c3d64cb4a01502789eb74f5e&page=${this.state.page}&pageSize=${this.props.pageSize}`;
       this.setState({loading: true});
       let data = await fetch(url);
+      this.props.setProgress(35);
       let parseData = await data.json()
+      this.props.setProgress(75);
       this.setState({
           articles:parseData.articles,
           totalResults:parseData.totalResults,
           loading:false
         });
+        this.props.setProgress(100);
     }
 
   async componentDidMount() {
       this.updateArticle()
     }
 
-    // fetchMoreData = async () =>{
-    //     this.setState({page: this.state.page + 1}
-    //     const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apikey=dbe57b028aeb41e285a226a94865f7a7&page=${this.state.page}&pageSize=${this.props.pageSize}`;
-    //     let data = await fetch(url);
-    //     let parsedData = await data.json()
-    //     this.setState({
-    //     articles: this.state.articles.concat{parsedData.articles},
-    //     totalResults: parsedData.totalResults,
-    //     loading: false,
-    //     })
-    //     };
-        
+    fetchMoreData = async () =>{
+        this.setState({page: this.state.page + 1})
+        const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&
+        category=${this.props.category}&apikey=$b0219494c3d64cb4a01502789eb74f5e&page=${this.state.page}&pageSize=${this.props.pageSize}`;
+        let data = await fetch(url);
+        let parsedData = await data.json()
+        this.setState({
+        articles: this.state.articles.concat(parsedData.articles),
+        totalResults: parsedData.totalResults,
+        loading: false,
+        })
+        };
     
-
     render() {
         return (
             <>
@@ -73,7 +77,7 @@ export default class News extends Component{
 
                 <div className="container">
                     <div className="row"  >
-                        {!this.state.loading && this.state.articles.map((element)=>{
+                        { this.state.articles.map((element)=>{
                          return  <div className="col-md-4"  key= {element.url} >
                                     <NewsItem 
                                         title= {element.title?element.title:" "}
@@ -97,4 +101,4 @@ export default class News extends Component{
 
 
 
-
+// https://codeforgeek.com/refresh-token-jwt-nodejs-authentication/
